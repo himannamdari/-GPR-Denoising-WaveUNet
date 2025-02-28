@@ -1,0 +1,3 @@
+echo "numpy
+tensorflow
+matplotlib" > requirements.txt
