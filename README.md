@@ -4,7 +4,7 @@
 This project applies the **Wave-U-Net** architecture, originally designed for audio denoising, to remove noise from **Ground Penetrating Radar (GPR) signals**.
 
 
-##Please cite:
+## Please cite:
 H. Namdari, M. Moradikia, S. Zekavat, R. Askari, O. Mangoubi and D. Petkie, "Advancing Precision Agriculture: Machine Learning-Enhanced GPR Analysis for Root-Zone Soil Moisture Assessment in Mega Farms," in IEEE Transactions on AgriFood Electronics, doi: 10.1109/TAFE.2024.3455238.
 keywords: {Feature extraction;Mathematical models;Data models;Soil moisture;Synthetic data;Moisture;Radar;Permittivity;Training;Soil measurements;Feature extraction;gprMAX simulations;ground penetration radar (GPR);machine learning (ML);root zone soil moisture estimation (SME)},
 
